@@ -16,7 +16,10 @@ Import project. Perform maven install. Run it like a standard Spring boot applic
 
 We have created following APIs
 
+## API For Cocktails
   API with the URL '/api/cocktails'. This will give list of cocktails.
+  
+## API For Cocktail details
   API with the URL '/api/cocktails/{COCKTAIL_ID}' will give details of cocktail
 
 
