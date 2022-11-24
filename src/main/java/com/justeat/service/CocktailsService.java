@@ -19,6 +19,8 @@ public interface CocktailsService {
 	
 	public List<Cocktails> getCocktails();
 	
+	public Cocktails getCocktailDetails(Long id);
+	
 	public List<Cocktails> saveAllCocktails(List<Cocktails> cocktails);
 
 }
