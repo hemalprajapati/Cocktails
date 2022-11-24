@@ -1,4 +1,4 @@
-# CocktailsUI
+# Cocktails
 
 This project was generated with [Spring boot] version 2.7.5.
 
